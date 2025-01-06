@@ -1,2 +1,2 @@
 # wyzeRE
-Reverse engineering the Wyze Hub Home Security System
+Reverse engineering whitepaper on the Wyze Hub Home Security System
